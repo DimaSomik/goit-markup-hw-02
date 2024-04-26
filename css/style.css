@@ -1,0 +1,49 @@
+.header-address-mail:hover {
+    color: #000099;
+}
+
+.header-address-number:hover {
+    color: #000099;
+}
+
+.header-address-mail:focus {
+    color: #99ccff;
+}
+
+.header-address-number:focus {
+    color: #99ccff;
+}
+
+.section-order-button {
+    background-color: #4D5AE5;
+    color: white;
+}
+
+.section-order-button:hover {
+    background-color: #404BBF;
+}
+
+.section-order-button:active {
+    background-color: #31D0AA;
+}
+
+.navigation-link:focus {
+    color: #000099;
+}
+
+.navigation-link:hover {
+    color: #000099;
+}
+
+.navigation-link:active {
+    color: #000099;
+}
+
+body {
+    font-family: Roboto, Raleway, monospace;
+    color: #434455;
+}
+
+p {
+    font-size: 100%;
+}
