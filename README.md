@@ -1,2 +1,2 @@
-# goit-markup-hw-01
-Zadanie Domowe Nr. 1 - Układ HTML strony internetowej.
+# goit-markup-hw-02
+Zadanie Domowe Nr. 2 - Ustawienie CSS dla strony.
