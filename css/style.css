@@ -37,6 +37,10 @@
     background-color: #404BBF;
 }
 
+.section-order-button:active {
+    background-color: #404BBF;
+}
+
 .first-section {
     background-color: #2e2f42;
 }
@@ -47,6 +51,19 @@
     text-align: center;
     letter-spacing: 0.02em;
     color: #ffffff;
+}
+
+.second-section-headline {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.second-section-paragraph {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
 .navigation-link {
@@ -86,8 +103,4 @@ body {
     font-family: Roboto, sans-serif;
     color: #434455;
     background-color: #FFFFFF;
-}
-
-p {
-    font-size: 100%;
 }
