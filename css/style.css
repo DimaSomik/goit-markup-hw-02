@@ -13,12 +13,20 @@
 }
 
 .header-address-links:focus {
-    color: #99ccff;
+    color: #404bbf;
+}
+
+.header-address-links:active {
+    color: #404bbf;
 }
 
 .section-order-button {
     background-color: #4D5AE5;
     color: white;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;    
+    cursor: pointer;
 }
 
 .section-order-button:hover {
@@ -26,7 +34,19 @@
 }
 
 .section-order-button:active {
-    background-color: #31D0AA;
+    background-color: #404BBF;
+}
+
+.first-section {
+    background-color: #2e2f42;
+}
+
+.first-section-headline {
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
 }
 
 .navigation-link {
@@ -41,7 +61,7 @@
 }
 
 .navigation-link:hover {
-    color: #000099;
+    color: #404bbf;
 }
 
 .navigation-link:active {
