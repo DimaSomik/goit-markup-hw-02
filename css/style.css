@@ -15,10 +15,10 @@
 .header-address-links:focus {
     color: #404bbf;
 }
-
+/* 
 .header-address-links:active {
     color: #404bbf;
-}
+} */
 
 .section-order-button {
     background-color: #4D5AE5;
@@ -33,13 +33,13 @@
     background-color: #404BBF;
 }
 
-.section-order-button:active {
+.section-order-button:focus {
     background-color: #404BBF;
 }
 
-.section-order-button:active {
+/* .section-order-button:active {
     background-color: #404BBF;
-}
+} */
 
 .first-section {
     background-color: #2e2f42;
@@ -80,10 +80,10 @@
 .navigation-link:hover {
     color: #404bbf;
 }
-
+/* 
 .navigation-link:active {
     color: #404bbf;
-}
+} */
 
 .navigation-logo {
     font-family: Raleway, sans-serif;
